@@ -345,3 +345,10 @@
     border-left: 1px solid #35b378;
     z-index: 3;
 }
+
+/**
+    复选框居中
+ */
+.md-task-list-item > input {
+    top: 8px;
+}
